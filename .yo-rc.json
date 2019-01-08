@@ -1,0 +1,33 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.evyheynen"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "jhipster",
+        "packageName": "com.evyheynen",
+        "packageFolder": "com/evyheynen",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "M2U3OTUxZDg1ZGZjZmY1M2U4ZTkzOWJhMTYxNTkzM2ZhMGE2ZDIwMDE5ZTQwMjZkMzE3MTAzOTYyMDBhMzA1NTQ2MzMyYWYyYzAyZWQ4MDEyZDAyYjAzOWVlNzZmOTc1OWRmNWUyYzhiYWQ5ZjViM2QzYTFmMTJkN2RlZDkzNDg=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
